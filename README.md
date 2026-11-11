@@ -23,5 +23,7 @@ The aim of my analysis was to investigate the reason for the drop in net profit 
 ## Conclusion
 During the data analysis, I found that the decline in net profit was accompanied by an increase in operating expenses outpacing revenue growth. Furthermore, I calculated ROA and ROE and also identified their downward trend. A drop in ROA indicates that the company’s assets (in this case, vineyards, equipment, and warehouses) are being used less efficiently, while a decline in ROE means that equity generates lower returns for shareholders.
 
-## My reccomendation
-My reccomendation for Purcari company is to monitor cost of sales,marketing, sales,general and administrative expenses,optimize supply chains and select only those sales channels that truly contribute to business development.As for ROA, the company can boost it by selling off unused or low-efficiency assets, or increasing net profit.As for ROE, company can boost it by increasing net profit by raising prices on high-margin products, and removing unprofitable items from its product range,reduce the share of low-margin products,thereby increase the numerator of ROA (net profit).
+## My recommendation
+My recommendation for Purcari company is to monitor cost of sales,marketing, sales,general and administrative expenses,optimize supply chains and select only those sales channels that truly contribute to business development.
+As for ROA, the company should increase its asset turnover and optimize its inventory.The company can boost it by selling off unused or low-efficiency assets, or increasing net profit , or do this simultaneously.
+As for ROE, company can boost it by increasing net profit by raising prices on high-margin products, and removing unprofitable items from its product range,reduce the share of low-margin products,thereby increase the numerator of ROA (net profit).
